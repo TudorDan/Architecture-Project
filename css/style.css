@@ -1,0 +1,34 @@
+html {
+	background: #F1F1F2
+}
+
+body {
+	font-family: "Alegreya SC", "Trebuchet MS", "Lucida Grande", serif;
+	font-weight: bold;
+}
+
+
+/*Header*/
+header {
+	display: flex;
+	width: 100%;
+}
+
+#header-logo {
+	max-height: 50px;
+	max-width: 50px;
+	width: 100%;
+	height: auto;
+}
+
+#header-text {
+	color: #BCBABE;
+}
+
+/*Content*/
+
+
+/*Footer*/
+
+
+/*Responsive*/
