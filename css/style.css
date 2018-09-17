@@ -1,34 +1,42 @@
-html {
-	background: #F1F1F2
-}
-
-body {
-	font-family: "Alegreya SC", "Trebuchet MS", "Lucida Grande", serif;
-	font-weight: bold;
-}
 
 
 /*Header*/
-header {
-	display: flex;
-	width: 100%;
+#logo {
+	max-height: 40px;
+	max-width: 40px;
 }
 
-#header-logo {
-	max-height: 50px;
-	max-width: 50px;
-	width: 100%;
-	height: auto;
-}
-
-#header-text {
-	color: #BCBABE;
-}
 
 /*Content*/
+.carousel-item img {
+	filter: brightness(35%);
+	max-height: 600px;
+}
+
+.carousel-caption {
+	top: 50%;
+}
+
 
 
 /*Footer*/
 
 
 /*Responsive*/
+@media screen and (min-width: 700px) {
+	.carousel-caption h1 {
+		font-size: 350%;
+	}
+	.carousel-caption h4 {
+		font-size: 150%;
+	}
+}
+
+@media screen and (min-width: 900px) {
+	.carousel-caption h1 {
+		font-size: 500%;
+	}
+	.carousel-caption h4 {
+		font-size: 200%;
+	}
+}
