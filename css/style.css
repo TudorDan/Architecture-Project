@@ -20,9 +20,17 @@ html, body {
 	top: 50%;
 }
 
-.jumbotron {
-	height: 100%;
+/*TESTING*/
+/*
+.decagon {
+  	width: 0;
+  	height: 0;
+  	border-style: solid;
+  	border-width: 200px 300px 0 0;
+  	border-color: #00ff59 transparent transparent transparent;
+  	-webkit-clip-path: polygon(100% 0, 86% 10%, 75% 16%, 64% 22%, 53% 26%, 39% 30%, 26% 32%, 14% 34%, 0% 35%, 0 0);
 }
+*/
 
 /*Footer*/
 
