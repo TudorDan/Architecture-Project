@@ -4,6 +4,7 @@
 
 * [About The Project](#abouttheproject)
 * [Instructions](#instructions)
+* [Known Glitches](#knownglitches)
 * [References](#references)
 
 ## About The Project
@@ -14,12 +15,15 @@ This is just a tentative procedure with testing utility. The website is made in 
 
 ## Instructions
 
-First, make sure you click this link [github preview](https://htmlpreview.github.io/?https://github.com/TudorDan/Architecture-Project/blob/master/index.html) in order to access the home page. Then, you may check the navbar elements to test the rest the website.
+First, make sure you [click this link](https://tudordan.github.io/Architecture-Project/) in order to access the home page. Then, you may check the navbar elements to test the rest the website.
 
-Known glitches:
-    1. Carousel Slider buttons;
-    2. Webpages height adjustment;
-    3. Webpages loading times.
+## Known Glitches
+
+1. index.html:
+    - [] carousel slider images (height is out of frame if higher than 1200px).
+2. portofoliu.html:
+    - [] webpage height adjustment.
+    - [ ] webpage loading time.
 
 ## References
 
