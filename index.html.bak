@@ -11,12 +11,7 @@
     <link rel="stylesheet" href="css/style.css">
 
     <title>Architecture Project</title>
-
-  	<!-- Start WOWSlider.com HEAD section --> <!-- add to the <head> of your page -->
-  	<link rel="stylesheet" type="text/css" href="engine0/style.css" />
-  	<script type="text/javascript" src="engine0/jquery.js"></script>
-  	<!-- End WOWSlider.com HEAD section -->
-  </head>
+	</head>
   <body>
     <!-- Navigation (Bootstrap) -->
     <nav class="navbar navbar-expand-sm navbar-dark bg-dark font-weight-bold sticky-top">
@@ -55,28 +50,9 @@
       </div>
     </nav>
 
-    <!-- Image Slider-->
-  	<!-- Start WOWSlider.com BODY section --> <!-- add to the <body> of your page -->
-  	<div id="wowslider-container0">
-  	<div class="ws_images"><ul>
-  		<li><img src="data0/images/execuie.jpg" alt="Execuție" title="Execuție" id="wows0_0"/></li>
-  		<li><img src="data0/images/locuine.jpg" alt="Locuințe" title="Locuințe" id="wows0_1"/></li>
-  		<li><img src="data0/images/lopestar.jpg" alt="LOPESTAR" title="LOPESTAR" id="wows0_2"/></li>
-  		<li><a href="http://wowslider.net"><img src="data0/images/proiectare.jpg" alt="bootstrap slideshow" title="Proiectare" id="wows0_3"/></a></li>
-  		<li><img src="data0/images/sc_lopestar_srl.jpg" alt="SC Lopestar SRL" title="SC Lopestar SRL" id="wows0_4"/></li>
-  	</ul></div>
-  	<div class="ws_bullets"><div>
-  		<a href="#" title="Execuție"><span><img src="data0/tooltips/execuie.jpg" alt="Execuție"/>1</span></a>
-  		<a href="#" title="Locuințe"><span><img src="data0/tooltips/locuine.jpg" alt="Locuințe"/>2</span></a>
-  		<a href="#" title="LOPESTAR"><span><img src="data0/tooltips/lopestar.jpg" alt="LOPESTAR"/>3</span></a>
-  		<a href="#" title="Proiectare"><span><img src="data0/tooltips/proiectare.jpg" alt="Proiectare"/>4</span></a>
-  		<a href="#" title="SC Lopestar SRL"><span><img src="data0/tooltips/sc_lopestar_srl.jpg" alt="SC Lopestar SRL"/>5</span></a>
-  	</div></div><div class="ws_script" style="position:absolute;left:-99%"><a href="http://wowslider.net">wow slider</a> by WOWSlider.com v8.8</div>
-  	<div class="ws_shadow"></div>
-  	</div>
-  	<script type="text/javascript" src="engine0/wowslider.js"></script>
-  	<script type="text/javascript" src="engine0/script.js"></script>
-  	<!-- End WOWSlider.com BODY section -->
+    <!-- Image Slider (Bootstrap Carousel)-->
+    <div></div>
+
 
     <!-- Footer -->
     <footer class="text-light bg-dark">

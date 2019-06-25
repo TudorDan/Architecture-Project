@@ -20,10 +20,11 @@ First, make sure you [click this link](https://tudordan.github.io/Architecture-P
 ## Known Glitches
 
 1. index.html:
-    - [] carousel slider images (height is out of frame if higher than 1200px).
+    - [] carousel slider images (get out of frame if higher than 1200px).
 2. portofoliu.html:
     - [] webpage height adjustment.
-    - [ ] webpage loading time.
+    - [] webpage loading time.
+    - [] videos loading time.
 
 ## References
 
